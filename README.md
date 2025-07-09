@@ -6,7 +6,7 @@ A clean, responsive, and professional portfolio website to showcase my web devel
 
 ## 📸 Preview
 
-![Portfolio Screenshot](scot.png)
+![Portfolio Screenshot](screenshot.png)
 
 ---
 
@@ -77,7 +77,7 @@ A clean, responsive, and professional portfolio website to showcase my web devel
 ## 📫 Contact Me
 
 - **LinkedIn**: [linkedin.com/in/mabbasm](https://linkedin.com/in/mabbasm)
-- **Email**: [mabbasm@gmail.com](mailto:mabbasm1100@gmail.com?subject=Hi I want to work with you)
+- **Email**: [mabbasm@gmail.com](mailto:mabbasm1100@gmail.com)
 - **Phone**: [(+92) 307055 5587](tel:+923070555587)
 
 ---
