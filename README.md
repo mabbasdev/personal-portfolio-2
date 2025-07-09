@@ -6,7 +6,7 @@ A clean, responsive, and professional portfolio website to showcase my web devel
 
 ## 📸 Preview
 
-![Portfolio Screenshot](screenshotop.png)
+![Portfolio Screenshot](screenshot.png)
 
 ---
 
