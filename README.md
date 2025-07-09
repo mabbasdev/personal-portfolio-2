@@ -70,7 +70,7 @@ A clean, responsive, and professional portfolio website to showcase my web devel
 
 ## 🌟 Live Demo
 
-> [🔗 Link will be added once hosted]
+> [🔗](https://personal-portfolio-2-wine-eight.vercel.app/)
 
 ---
 
